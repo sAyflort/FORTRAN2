@@ -7,8 +7,8 @@ public class CW {
     public static int[][] AS = new int[46][22];
     public static int[] BE = new int[46];
     public static int[] BW = new int[46];
-    public static int[][] BN = new int[22][46];
-    public static int[][] BS = new int[22][46];
+    public static int[] BN = new int[22];
+    public static int[] BS = new int[22];
     public static int[][] VS = new int[46][22];
     public static int[][] FKS = new int[46][22];
     public static int[][] TKS = new int[46][22];
